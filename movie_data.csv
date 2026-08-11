@@ -1,0 +1,11 @@
+MovieID,Title,Genre,Release_Year,IMDb_Rating,Box_Office,Duration_min
+M001,The Shawshank Redemption,Drama,1994,9.3,73300000,142
+M002,The Godfather,"Crime, Drama",1972,9.2,250000000,175
+M003,The Dark Knight,"Action, Drama, Crime",2008,9,1006000000,152
+M004,Avatar,"Action, Adventure, Sci-Fi",2009,7.9,2923000000,162
+M005,Pulp Fiction,"Crime, Drama",1994,8.9,213900000,154
+M006,Titanic,"Drama, Romance",1997,7.9,2264000000,194
+M007,Inception,"Action, Adventure, Sci-Fi",2010,8.8,839000000,148
+M008,Parasite,"Drama, Thriller",2019,8.5,263100000,132
+M009,Avengers: End Game,"Action, Adventure, Sci-Fi",2019,8.4,2799000000,181
+M010,Spirited Away,"Animation, Adventure, Family",2001,8.6,395800000,125
